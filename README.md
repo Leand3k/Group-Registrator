@@ -18,4 +18,4 @@ First, clone the repository from here. It will be the same for you. Then, you wi
 
 If for any reason that shortcut doesn't work, here's another way to run the program:
 
-Go into the folder named _bin_, get into _Release_, then get into "netcoreapp3.1", and then get into "win10-x64". There you will find a .exe named "_Registrator.exe_". Do the same steps from above(taking the path and all) and that will be good to go.
+Go into the folder named _bin_, get into _Release_, then get into "netcoreapp3.1", and then get into "win10-x64". There you will find a .exe named "[_Registrator.exe_](https://github.com/Leand3k/Group-Registrator/blob/main/bin/Release/netcoreapp3.1/win10-x64/Registrador.exe)". Do the same steps from above(taking the path and all) and that will be good to go.
