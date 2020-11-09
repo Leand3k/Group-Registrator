@@ -12,54 +12,6 @@ namespace Registrador
             //{path}, {path2}, {grupo}
             Registrador(args[0], args[1], args[2]);
 
-            // string grup = @"C:\Repositorio\TareaDeTendencias\Tarea01\students.txt";
-
-            // //taking info and setting them on lists.
-            // List<string> membersList = File.ReadAllLines(grup).ToList();
-            // // List<string> subjectsList = File.ReadAllLines(subjects).ToList();
-            // int groups = 3;
-
-            // membersList.Shuffle();
-            // // subjectsList.Shuffle();
-            
-            // //Basic logic to know how many people are going into a group.
-            // int membersAndGroups = membersList.Count / groups;
-            // int memberswithoutgroup = membersList.Count % groups;
-            // //same thing, but with subjects.
-            // // int subjectsAndGroups = subjectsList.Count / groups;
-            // // int subjectswithouthuse = subjectsList.Count % groups;
-
-            // if(membersList.Count != 0 && 10 > groups){
-
-
-            //     for(int i = 0; i < groups; i++){
-            //         Console.Write($"Group: {i + 1}.- ");
-
-            //         Console.WriteLine();
-
-            //         for(int a = 0; a < membersAndGroups; a++){
-            //             Console.WriteLine(membersList[0]);
-            //             membersList.RemoveAt(0);
-            //         }
-
-            //         if(memberswithoutgroup > 0){
-
-            //             Console.WriteLine(membersList[0]);
-            //             membersList.RemoveAt(0);
-            //             memberswithoutgroup--;
-
-            //         }
-            //         Console.WriteLine();
-            //     }
-
-            // }else{
-            //     Console.WriteLine("Wrong data. Change the file and try again.");
-            // }
-
-            // Console.ReadKey();
-
-
-            // Console.WriteLine();
         }
 
         public static void Registrador(string members, string subjects, string groupsGiven){
