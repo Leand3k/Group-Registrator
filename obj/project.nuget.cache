@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESGBINNXFmzu988guj3Kh+7drv+L9+UppeSszF/sI5vc88LZW9COY7+KEPKyYQ+GEzC5Lz4M7EXnJ9DLtvq3fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\TareaDeTendencias\\Registrador\\Registrador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thele\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.9\\microsoft.netcore.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\thele\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\thele\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

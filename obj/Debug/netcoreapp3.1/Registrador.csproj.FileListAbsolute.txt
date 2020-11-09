@@ -1,0 +1,13 @@
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.csprojAssemblyReference.cache
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.AssemblyInfoInputs.cache
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.AssemblyInfo.cs
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.csproj.CoreCompileInputs.cache
+C:\Repositorio\TareaDeTendencias\Registrador\bin\Debug\netcoreapp3.1\Registrador.exe
+C:\Repositorio\TareaDeTendencias\Registrador\bin\Debug\netcoreapp3.1\Registrador.deps.json
+C:\Repositorio\TareaDeTendencias\Registrador\bin\Debug\netcoreapp3.1\Registrador.runtimeconfig.json
+C:\Repositorio\TareaDeTendencias\Registrador\bin\Debug\netcoreapp3.1\Registrador.runtimeconfig.dev.json
+C:\Repositorio\TareaDeTendencias\Registrador\bin\Debug\netcoreapp3.1\Registrador.dll
+C:\Repositorio\TareaDeTendencias\Registrador\bin\Debug\netcoreapp3.1\Registrador.pdb
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.dll
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.pdb
+C:\Repositorio\TareaDeTendencias\Registrador\obj\Debug\netcoreapp3.1\Registrador.genruntimeconfig.cache
